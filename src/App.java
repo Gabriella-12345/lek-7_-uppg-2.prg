@@ -15,7 +15,7 @@ public class App {
         System.out.println(litetTal  + "är mindre än" + stortTal);
     }
 
-    System.out.println ( litetTal=litetTal  stortTal = stortTal);
+    System.out.println(litetTal=litetTal  && stortTal=stortTal);
 
 
     }
